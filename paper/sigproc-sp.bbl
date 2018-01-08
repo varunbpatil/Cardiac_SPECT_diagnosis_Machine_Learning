@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{KD}
+Kurgan~L. A., Cios~K. J., Tadeusiewicz R., Ogiela M., and Goodenday~L. S.
+\newblock Knowledge discovery approach to automated cardiac spect diagnosis.
+\newblock {\em Artificial Intelligence in Medicine}, 23(2):149--169, 2001.
+
+\bibitem{CM}
+Radwan~E. Abdel-Aal, Mona R.~E. Abdel-Halim, and Safa Abdel-Aal.
+\newblock Improving the classification of multiple disorders with problem
+  decomposition.
+
+\bibitem{QA}
+J.~A.~K. Blokland, J.~H.~C. Reiber, and E.~K.~J. Pauwels.
+\newblock Quantitative analysis in single photon emission tomography (spect).
+\newblock {\em Eur J Nuclear Medicine}, 19:47--61, 1992.
+
+\bibitem{NA}
+K.~J. Cios, L.~S. Goodenday, K.~K. Shah, and G.~Serpen.
+\newblock A novel algorithm for classification of spect images of a human
+  heart.
+\newblock {\em Proc. of the CBMS’96}, pages 1--5, June 1996.
+
+\bibitem{DM}
+K.~J. Cios, A.~Teresinska, S.~Konieczna, J.~Potocka, and S.~Sharma.
+\newblock Diagnosing myocardial perfusion from spect bull’s-eye maps - a
+  knowledge discovery approach.
+\newblock {\em IEEE Engineering in Medicine and Biology Magazine, special issue
+  on Medical Data Mining and Knowledge Discovery}, 19(4):17--25, 2000.
+
+\bibitem{CS}
+J.~R. Corbett, DePuey~E. D., Berman~D. S., and Garcia~E. V.
+\newblock {\em Cardiac SPECT Imaging}.
+\newblock Raven Press, New York, 1995.
+
+\bibitem{AI}
+M.~Kukar, I.~Kononenko, C.~Groselj, K.~Kralj, and J.~Fettich.
+\newblock Analysing and improving the diagnosis of ischaemic heart disease with
+  machine learning.
+\newblock {\em Artificial Intelligence in Medicine}, 16(1):25--50, 1999.
+
+\bibitem{HN}
+Lucila Ohno-Machado and Mark~A. Musen.
+\newblock Hierarchical neural networks for partial diagnosis in medicine.
+\newblock {\em Section on Medical Informatics, Stanford School of Medicine}.
+
+\bibitem{IS}
+J.~P. Sacha, K.~J. Cios, and L.~S. Goodenday.
+\newblock Issues in automating cardiac spect diagnosis.
+\newblock {\em IEEE Engineering in Medicine and Biology Magazine, special issue
+  on Medical Data Mining and Knowledge Discovery}, 19(4):78--88, 2000.
+
+\end{thebibliography}

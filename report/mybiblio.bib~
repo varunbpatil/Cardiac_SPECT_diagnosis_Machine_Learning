@@ -1,0 +1,46 @@
+@ARTICLE{KD,
+AUTHOR  = {Kurgan, L.A., Cios, K.J., Tadeusiewicz, R., Ogiela, M., and Goodenday, L.S.},
+TITLE   = {Knowledge Discovery Approach to Automated Cardiac SPECT Diagnosis},
+YEAR    = {2001},
+JOURNAL = {Artificial Intelligence in Medicine},
+VOLUME  = {23},
+NUMBER  = {2},
+PAGES   = {149--169}    
+}
+
+@ARTICLE{CM,
+AUTHOR  = {Radwan E. Abdel-Aal1, Mona R. E. Abdel-Halim2 and Safa Abdel-Aal3},
+TITLE   = {Improving the Classification of Multiple Disorders with Problem Decomposition},
+}
+
+@ARTICLE{HN,
+AUTHOR  = {Lucila Ohno-Machado and Mark A. Musen},
+TITLE   = {Hierarchical Neural Networks for Partial Diagnosis in Medicine},
+JOURNAL = {Section on Medical Informatics, Stanford School of Medicine}
+}
+
+@ARTICLE{QA,
+AUTHOR  = {J.A.K. Blokland, J.H.C.Reiber and E.K.J.Pauwels},
+TITLE   = {Quantitative analysis in single photon emission tomography (SPECT)},
+JOURNAL = {Eur J Nuclear Medicine},
+YEAR    = {1992},
+VOLUME  = {19},
+PAGES   = {47--61}
+}
+
+@ARTICLE{NA,
+AUTHOR  = {K.J. Cios, L.S. Goodenday, K.K. Shah and G. Serpen},
+TITLE   = {A novel algorithm for classification of SPECT images of a human heart},
+YEAR    = {1996},
+MONTH   = {June},
+JOURNAL = {Proc. of the CBMS’96},
+PAGES   = {1--5}    
+}
+
+@BOOK{CS,
+author = "J.R. Corbett, DePuey ED, Berman DS and Garcia EV",
+title = "Cardiac SPECT Imaging",
+publisher = "Raven Press, New York",
+year = 1995
+}
+

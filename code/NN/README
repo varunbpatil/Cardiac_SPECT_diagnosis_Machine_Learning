@@ -1,0 +1,10 @@
+Octave implementation of Neural Networks -- SPECT Heart for 8th semester final project
+
+
+
+How to execute :
+1) install octave
+2) download folder from github
+3) cd to folder
+4) $ octave [Enter]
+5) type nn [Enter] at octave prompt

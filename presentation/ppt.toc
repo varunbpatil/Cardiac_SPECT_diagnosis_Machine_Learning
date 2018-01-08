@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{SPECT images}{4}{0}{2}
+\beamer@sectionintoc {3}{Inputs}{5}{0}{3}
+\beamer@sectionintoc {4}{Algorithm}{9}{0}{4}
+\beamer@sectionintoc {5}{Output}{16}{0}{5}
+\beamer@sectionintoc {6}{Alternatives}{18}{0}{6}
+\beamer@sectionintoc {7}{Enhancements}{20}{0}{7}

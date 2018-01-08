@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: sigproc-sp.aux
+The style file: plain.bst
+Database file #1: sigproc.bib
+Warning--empty journal in CM
+Warning--empty year in CM
+Warning--empty year in HN
+You've used 9 entries,
+            2118 wiz_defined-function locations,
+            554 strings with 5507 characters,
+and the built_in function-call counts, 3183 in all, are:
+= -- 300
+> -- 197
+< -- 1
++ -- 78
+- -- 68
+* -- 255
+:= -- 557
+add.period$ -- 26
+call.type$ -- 9
+change.case$ -- 60
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 103
+empty$ -- 209
+format.name$ -- 68
+if$ -- 626
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 10
+newline$ -- 47
+num.names$ -- 18
+pop$ -- 61
+preamble$ -- 1
+purify$ -- 52
+quote$ -- 0
+skip$ -- 67
+stack$ -- 0
+substring$ -- 163
+swap$ -- 13
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 34
+warning$ -- 3
+while$ -- 31
+width$ -- 10
+write$ -- 94
+(There were 3 warnings)

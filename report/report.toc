@@ -1,0 +1,37 @@
+\contentsline {chapter}{Abstract}{i}
+\contentsline {chapter}{Acknowledgement}{ii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Objective}{1}
+\contentsline {section}{\numberline {1.2}Existing Solution}{1}
+\contentsline {section}{\numberline {1.3}Proposed Solution}{1}
+\contentsline {section}{\numberline {1.4}Applications}{2}
+\contentsline {section}{\numberline {1.5}Project Timeline}{3}
+\contentsline {chapter}{\numberline {2}System Requirements and Analysis}{4}
+\contentsline {section}{\numberline {2.1}Functional Requirements}{4}
+\contentsline {subsection}{\numberline {2.1.1}System Features}{4}
+\contentsline {subsection}{\numberline {2.1.2}Use Cases}{5}
+\contentsline {section}{\numberline {2.2}Hardware Requirements}{6}
+\contentsline {section}{\numberline {2.3}Software Requirements}{6}
+\contentsline {chapter}{\numberline {3}Tools and Technologies Used}{7}
+\contentsline {section}{\numberline {3.1}Tools}{7}
+\contentsline {section}{\numberline {3.2}Technologies}{7}
+\contentsline {chapter}{\numberline {4}Literature Survey}{9}
+\contentsline {chapter}{\numberline {5}System Design}{11}
+\contentsline {section}{\numberline {5.1}Supporting Systems}{11}
+\contentsline {section}{\numberline {5.2}SVM Structure}{11}
+\contentsline {subsection}{\numberline {5.2.1}Inputs}{11}
+\contentsline {subsection}{\numberline {5.2.2}SVM Algorithm}{13}
+\contentsline {subsection}{\numberline {5.2.3}Choices in algorithm design}{13}
+\contentsline {subsection}{\numberline {5.2.4}SVM parameters C and $\sigma $}{14}
+\contentsline {subsection}{\numberline {5.2.5}Optimization Problem in SVM}{15}
+\contentsline {subsection}{\numberline {5.2.6}Outputs}{16}
+\contentsline {chapter}{\numberline {6}Alternative Designs}{17}
+\contentsline {chapter}{\numberline {7}System Implementation}{18}
+\contentsline {section}{\numberline {7.1}Pseudocode}{18}
+\contentsline {chapter}{\numberline {8}System Testing and Results}{22}
+\contentsline {section}{\numberline {8.1}SVM classifier using Gaussian Kernel}{22}
+\contentsline {section}{\numberline {8.2}SVM classifier using Linear Kernel}{24}
+\contentsline {section}{\numberline {8.3}aNN classifier}{25}
+\contentsline {chapter}{\numberline {9}Applications}{27}
+\contentsline {chapter}{\numberline {10}Conclusions and Future Work}{29}
+\contentsline {chapter}{Bibliography}{31}

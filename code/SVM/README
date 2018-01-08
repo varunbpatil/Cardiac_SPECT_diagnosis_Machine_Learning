@@ -1,0 +1,11 @@
+8th sem project implementation
+Using Support Vector Machines (SVM)
+SPECT Heart data set
+
+
+How to execute :
+1) Install octave
+2) download folder for github
+3) cd to folder
+4) $ octave [Enter]
+5) At the octave prompt type svm [Enter]

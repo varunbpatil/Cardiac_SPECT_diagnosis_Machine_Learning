@@ -1,0 +1,8 @@
+1) geometry package can help you adjust the margins easily
+    \usepackage[left=2cm,top=1cm,bottom=2cm,right=3cm,nohead,nofoot]{geometry}
+   For actual usage, see "8th_sem_seminar_report" 
+    
+    
+2) titlesec package can let you adjust the font size of chapter headings easily
+    \titleformat{\chapter}{\bf\huge}{\thechapter}{1em}{}
+    \titleformat{name of section command}{formatting}{label: in my case the chap    ter counter}{spacing between text and label}{code to go after text}    

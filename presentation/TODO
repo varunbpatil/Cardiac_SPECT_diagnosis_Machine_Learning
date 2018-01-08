@@ -1,0 +1,31 @@
+>>front page containing SJCE logo - create another ppt with that as title page, then cut pdf and merge into this one
+
+>>what SPECT IMAGES actually look like ? (put some image samples)
+what is the input that we actually use?
+where u got the data from? (website link)
+what is training set ?
+>>how u divide the input into cv set and test set ? why do u need this ? 
+how many features ?
+>>what are those features(bogus) ?
+
+what is the training algo ?
+>>how to choose best value of C and sigma in practice ?
+what is linear kernel and gaussian kernel in svm ?
+>>which kernel is better and why ?
+>>put in some graphs of linear and non-linear kernel
+
+what is the output ?
+what is predictive accuracy, sesitivity, specificity ?
+
+why did u choose svm? (becoz NN did not give accurate results)
+		      (svm gives similar results everytime, but NN is
+		      widely varying)
+alternative prototypes tried (neural networks)
+>>screen shot of accuracies of the two compared	
+
+future improvements(multi-class classification, take age and sex into
+	account , in general physical characteristics of patient)
+
+
+create two seperate "svm_linear.m"	and   "svm_gaussian.m" to show the 
+   difference
